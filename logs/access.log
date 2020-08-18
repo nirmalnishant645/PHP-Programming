@@ -91,3 +91,7 @@
 ::1 - - [18/Aug/2020:18:54:10 +0530] "GET /Basic-Deployment/Arrays.php HTTP/1.1" 200 595 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
 ::1 - - [18/Aug/2020:18:54:10 +0530] "GET /Basic-Deployment/css/style.css HTTP/1.1" 200 595 "http://localhost/Basic-Deployment/Arrays.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
 ::1 - - [18/Aug/2020:18:55:02 +0530] "-" 408 0 "-" "-"
+::1 - - [18/Aug/2020:18:57:59 +0530] "GET /Basic-Deployment/Assoc-Arrays.php HTTP/1.1" 200 532 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+::1 - - [18/Aug/2020:18:58:51 +0530] "-" 408 0 "-" "-"
+::1 - - [18/Aug/2020:19:01:18 +0530] "GET /Basic-Deployment/Assoc-Arrays.php HTTP/1.1" 200 541 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+::1 - - [18/Aug/2020:19:01:28 +0530] "GET /Basic-Deployment/Assoc-Arrays.php HTTP/1.1" 200 545 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"

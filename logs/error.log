@@ -13,3 +13,4 @@
 [Tue Aug 18 18:43:54.461514 2020] [php7:error] [pid 14834] [client ::1:43092] PHP Parse error:  syntax error, unexpected '$fruits' (T_VARIABLE), expecting ';' or ',' in /home/nishant/Work/PHP-Programming/Basic-Deployment/Arrays.php on line 20
 [Tue Aug 18 18:43:58.670916 2020] [php7:error] [pid 14812] [client ::1:43098] PHP Parse error:  syntax error, unexpected '$fruits' (T_VARIABLE), expecting ';' or ',' in /home/nishant/Work/PHP-Programming/Basic-Deployment/Arrays.php on line 20
 [Tue Aug 18 18:54:10.845037 2020] [php7:notice] [pid 14811] [client ::1:43476] PHP Notice:  Undefined offset: 1 in /home/nishant/Work/PHP-Programming/Basic-Deployment/Arrays.php on line 27
+[Tue Aug 18 19:01:18.850611 2020] [php7:notice] [pid 14832] [client ::1:43608] PHP Notice:  Undefined index: coutry in /home/nishant/Work/PHP-Programming/Basic-Deployment/Assoc-Arrays.php on line 23
