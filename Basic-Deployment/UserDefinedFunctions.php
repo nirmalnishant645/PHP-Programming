@@ -42,6 +42,16 @@
                 sum_custom(2, 3);
                 sum_custom(4,7);
                 sum_custom(8,-3);
+
+                function cash_memo($amount) {
+                  $amount += $amount * 0.10;
+                  return $amount;
+                }
+
+                echo cash_memo(1000)."<br/>";
+
+                $total_amount = cash_memo(100);
+                echo $total_amount."<br/>";
             
             ?>
             
